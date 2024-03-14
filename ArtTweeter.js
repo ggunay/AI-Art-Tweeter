@@ -1,5 +1,4 @@
 const axios = require('axios');
-require('dotenv').config();
 const { OpenAI } = require('openai');
 const fs = require('fs').promises;
 const path = require('path');
