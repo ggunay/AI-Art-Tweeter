@@ -20,8 +20,8 @@ This application generates thematic images using OpenAI's DALL-E and tweets them
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/ai-art-tweeter.git
-cd ai-art-tweeter
+git clone https://github.com/ggunay/Ai-Art-Tweeter.git
+cd Ai-Art-Tweeter
 ```
 
 2. **Install Dependencies and setup variables**:
