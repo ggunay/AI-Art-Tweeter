@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+*.zip
+lambda_function_inline.js
+index.js
+paris.webp
