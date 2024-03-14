@@ -5,3 +5,4 @@ node_modules/
 lambda_function_inline.js
 index.js
 paris.webp
+.DS_Store
